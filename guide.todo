@@ -1,0 +1,24 @@
+Princípios SOLID:
+    ✔ Quais são os princípios @done
+    ✔ O que é cada um @done
+
+MVC:
+    ✔ O que é @done
+    ✔ Como funciona @done
+
+Projeto Prático - API de Produtos:
+    ✔ Inicialização do projeto e instalação do typescript @done
+    ✔ Configuração do tsconfig.json e do package.json @done
+    ✔ Criação da entidade @done
+    ✔ Criação do repositório @done
+        ✔ Criação do contrato @done
+        ✔ Instalação e configuração do prisma + sqlite @done
+        ✔ Criação do repositório de produtos @done
+    ✔ Criação do serviço @done
+        ✔ Criação do contrato @done
+        ✔ Implementação concreta @done
+    ✔ Criação do controller @done
+    ✔ Criação da API @done
+        ✔ Criação do contrato @done
+        ✔ Implementação concreta @done
+    ✔ Teste da API @done
